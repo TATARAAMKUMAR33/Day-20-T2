@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    width: 100%; 
+  color: rgb(225, 255, 56);
+  background-color: #9da74b;
+
+}
+   #vehicle{
+    text-align: center;
+}
+.container div{
+    margin: 30px;
+        padding: 10px;
+        font-size: 20px;
+        background-color: rgb(62, 63, 60);
+           flex-direction:column;
+}
